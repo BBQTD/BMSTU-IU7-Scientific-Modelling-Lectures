@@ -9,3 +9,5 @@
 
 ## Build tool auxiliary files:
 *.synctex.gz
+
+.DS_Store
