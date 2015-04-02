@@ -5,7 +5,7 @@
 *.lot
 *.fls
 *.out
-*.to
+*.toc
 
 ## Build tool auxiliary files:
 *.synctex.gz
